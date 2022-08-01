@@ -6,7 +6,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "sukvvon",
+  title: "su",
   tagline: "Frontend",
   url: "https://sukvvon.github.io",
   baseUrl: "/",
